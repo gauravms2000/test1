@@ -2,7 +2,7 @@
 using namesapce std;
 int main
 {
-	cout<<"HELLO GIT!";
+	cout<<"HELLO GAURAV!";
 	return 0;
 }
 
